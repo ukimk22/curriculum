@@ -1,3 +1,49 @@
 @media screen and (max-width: 479px) {
+
+    .header {
+        width: 150px;
+    }
+    
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+    
+    .leftmidori {
+        width: 150px;
+        height: 100px;
+    }
+    
+    .mannakanoue {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .right {
+        width: 150px;
+    }
+    
+    .mannaka {
+        width: 150px;
+    }
+    
+    .kiiro {
+        width: 150px;
+    }
+    .ao {
+        width: 150px;
+    }
+    .orenji {
+        width: 150px;
+        height: 100px;
+        order: -2;
+    }
+    .chairo {
+        width: 150px;
+    }
+    .footer {
+        width: 150px;
+    }
     
 }
