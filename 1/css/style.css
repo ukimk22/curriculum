@@ -1,0 +1,91 @@
+.header {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+    position: relative;
+}
+
+.akanoshiro {
+    width: 160px;
+    height: 60px;
+    background-color: white;
+    position: absolute;top: 20px;right:20px; 
+
+}
+
+.aka {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+
+.aka1 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+}
+
+.aka2 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+}
+
+.aka3 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+}
+
+.main {
+    display: flex;
+}
+
+.leftmidori {
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+
+.chairo {
+    width: 250px;
+    height: 250px;
+    background-color: #8c2727;
+    position: relative;
+}
+
+.orenji {
+    align-content: space-between;
+    width: 150px;
+    height: 170px;
+    position: absolute;top:40px; left:40px
+}
+
+.orenji1 {
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    border: solid 5px white;
+    box-sizing: border-box;
+}
+.orenji2 {
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    border: solid 5px white;
+    box-sizing: border-box;
+}
+.orenji3 {
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    border: solid 5px white;
+    box-sizing: border-box;
+}
+
+.footer {
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
